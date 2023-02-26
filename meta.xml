@@ -1,0 +1,9 @@
+<meta>
+    <script src='editbox.lua' type='client'/>
+    <script src='client.lua' type='client'/>
+    <script src='server.lua' type='server'/>
+
+    <file src='assets/Deposito.png'/>
+    <file src='assets/Saque.png'/>
+    <file src='assets/Transfer.png'/>
+</meta>
